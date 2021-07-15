@@ -1,0 +1,10 @@
+[package]
+name = "simple-sub-rs"
+version = "0.1.0"
+authors = ["Luyu Cheng <chengluyu@live.cn>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+im = "15.0.0"
